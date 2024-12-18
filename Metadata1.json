@@ -1,6 +1,6 @@
 {
-    "name": "TurboSnail",
-    "symbol": "TSNAIL",
-    "description": "Fastest snail ever!",
+    "name": "Test",
+    "symbol": "TEST",
+    "description": "test",
     "image": "https://raw.githubusercontent.com/Ficell/Data_/refs/heads/main/TurboSnail.png"
   }
