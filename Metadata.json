@@ -29,6 +29,4 @@
           share: 100,
         },
       ],
-    },
-    image: imageUrl,
-  };
+    };
