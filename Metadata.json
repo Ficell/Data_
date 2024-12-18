@@ -4,23 +4,4 @@
     description: "The utimate TurboSnail leader!",
     seller_fee_basis_points: 500,
     uri: https://raw.githubusercontent.com/Ficell/Data_/refs/heads/main/TurboSnail.png,
-    
-    attributes: [
-      {
-        trait_type: "Leader",
-        value: "Custom",
-      },
-    ],
-    collection: {
-      name: "TurboSnail Collection",
-      family: "TurboSnail",
-    },
-    properties: {
-         creators: [
-        {
-          address: "3zgM8Z1a5SU46XjNr7cuk5p2Kpg4gHu5inrwndCmSADL",
-          share: 100,
-        },
-      ],
-    },
-}
+ }
