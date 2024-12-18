@@ -1,5 +1,5 @@
 {
-  name: "TurboSnail_Hyperion",
+  "name": "TurboSnail_Hyperion",
   "symbol": "TS_Hyperion",
   "uri": "https://raw.githubusercontent.com/Ficell/Data_/refs/heads/main/metadata4.json",
   "seller_fee_basis_points": 500,
