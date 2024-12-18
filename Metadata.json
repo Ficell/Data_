@@ -3,6 +3,7 @@
     symbol: "TS_Hyperion",
     description: "The utimate TurboSnail leader!",
     seller_fee_basis_points: 500,
+    uri: https://raw.githubusercontent.com/Ficell/Data_/refs/heads/main/TurboSnail.png,
     
     attributes: [
       {
@@ -15,18 +16,11 @@
       family: "TurboSnail",
     },
     properties: {
-      files: [
-        {
-          uri: https://raw.githubusercontent.com/Ficell/Data_/refs/heads/main/TurboSnail.png,
-          type: "image/png",
-        },
-      ],
-      category: "image",
-      maxSupply: 0,
-      creators: [
+         creators: [
         {
           address: "3zgM8Z1a5SU46XjNr7cuk5p2Kpg4gHu5inrwndCmSADL",
           share: 100,
         },
       ],
-    };
+    },
+};
