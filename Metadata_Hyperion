@@ -3,5 +3,5 @@
     symbol: "TS_Hyperion",
     description: "The utimate TurboSnail leader!",
     seller_fee_basis_points: 500,
-    uri: https://raw.githubusercontent.com/Ficell/Data_/refs/heads/main/TurboSnail.png,
+    uri: https://raw.githubusercontent.com/Ficell/Data_/refs/heads/main/TurboSnail.png
  }
